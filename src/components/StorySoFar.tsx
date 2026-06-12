@@ -29,7 +29,7 @@ const ENTRIES: Entry[] = [
         title: "Co-Founder",
         meta: "Feb 2024 - Present · Remote · Full-Time",
         bullets: [
-          "Handles sales and software development work",
+          "Handled sales and software development work",
           "Catered 100+ clients globally",
           "Brought in sales totalling over $7000+",
           "Created multiple websites and softwares for clients",
